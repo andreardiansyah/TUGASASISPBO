@@ -10,14 +10,7 @@
  */
 import java.util.Scanner;
 public class TesBuku {
-
-//    private static String namaPengarang;
-//    private static String judulBuku;
-//    private static int tahunTerbit;
-//    private static int cetakanKe;
-//    private static double hargaJual;
-public static void main(String[]args){
-    
+public static void main(String[]args){    
 
 
 Scanner input = new Scanner(System.in);
